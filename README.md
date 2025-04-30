@@ -1,4 +1,5 @@
 # objectarx_sdks
+
 # 📦 Legacy ObjectARX SDK Archive (2000–2012)
 
 This repository is a curated archive of historical **ObjectARX SDKs** from the years **2000 to 2012**, preserved for learning, reference, and compatibility purposes. These SDKs have played a foundational role in the evolution of AutoCAD customization and continue to serve developers working on older versions of AutoCAD or maintaining legacy systems.
@@ -46,5 +47,22 @@ Here are some useful links (official and community-hosted) to deepen your unders
 ObjectARX-SDKs/
 ├── ARX2000/
 ├── ARX2001/
+```
 
+## ⚠️ Disclaimer
 
+All SDKs and tools in this repository are:
+
+- Shared for educational and historical use only
+
+- Originally distributed publicly by Autodesk
+
+- Provided **as-is**, with no guarantees of future support
+
+If Autodesk requests removal of any version, we will promptly comply.
+
+---
+
+## 🙌 Acknowledgments
+
+Thanks to the **ADN community**, **archivists**, and all those developers who preserved these SDKs over the years. Special shout-out to the [ADN-CIS Forum](https://adn-cis.org/forum/index.php?topic=61.0) for hosting invaluable references.
